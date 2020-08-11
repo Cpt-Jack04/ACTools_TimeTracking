@@ -1,7 +1,7 @@
 ## ACTools: Timetracking
 <p>
-  This package contains pre-made time tracking objects which are extendable. It also includes two premade components which are also extendable.
-  This package includes ACTools: Core as a built-in dependancy. This is because Unity does not support git dependancy in custom packages as of this version.
+  This package contains pre-made time tracking C# objects and MonoBehaviours which are extendable.
+  This package includes ACTools: Core as a built-in dependancy due to Unity not supporting git dependancy in custom packages as of this version.
   <br/>
   Feel free to use it for whatever. If you wouldn't mind, please credit me. It would be appreciated!
 </p>

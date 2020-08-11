@@ -2,8 +2,7 @@
   "name": "com.actools.timetracking",
   "version": "1.0.0",
   "displayName": "ACTools: Time Tracking",
-  "description": "This package contains pre-made time tracking objects which are extendable. It also includes two premade components which are also extendable.\n" + 
-                 "This package includes ACTools: Core as a built-in dependancy. This is because Unity does not support git dependancy in custom packages as of this version.",
+  "description": "This package contains pre-made time tracking C# objects and MonoBehaviours which are extendable. This package includes ACTools: Core as a built-in dependancy due to Unity not supporting git dependancy in custom packages as of this version.",
   "unity": "2019.4",
   "keywords": [
     "actools",
