@@ -1,0 +1,15 @@
+{
+    "name": "com.actools.timetracking.runtime",
+    "references": [
+        "GUID:97d3a34ecf4c34e49992afd531182dea"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

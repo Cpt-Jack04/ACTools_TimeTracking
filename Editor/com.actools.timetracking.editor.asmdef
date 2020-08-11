@@ -1,0 +1,18 @@
+{
+    "name": "com.actools.timetracking.editor",
+    "references": [
+        "GUID:97d3a34ecf4c34e49992afd531182dea",
+        "GUID:0d0205e4cdb78374e9e86c88e5f120a7"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

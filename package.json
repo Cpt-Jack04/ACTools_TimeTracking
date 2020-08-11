@@ -1,0 +1,18 @@
+{
+  "name": "com.actools.timetracking",
+  "version": "1.0.0",
+  "displayName": "ACTools: Time Tracking",
+  "description": "This package contains pre-made time tracking objects which are extendable. It also includes two premade components which are also extendable.\n" + 
+                 "This package includes ACTools: Core as a built-in dependancy. This is because Unity does not support git dependancy in custom packages as of this version.",
+  "unity": "2019.4",
+  "keywords": [
+    "actools",
+    "timetracking",
+    "library"
+  ],
+  "author": {
+    "name": "Alex Cline",
+    "email": "clinealex10@gmail.com",
+    "url": "alexcline.games"
+  }
+}
