@@ -7,6 +7,14 @@
 </ul>
 <hr/>
 
+## [1.0.1] - 2020-09-30
+
+### Changes:
+<ul>
+	<li>ACTools.Core updated.</il>
+</ul>
+<hr/>
+
 ## [1.0.0] - 2020-08-11
 
 ### Additions:

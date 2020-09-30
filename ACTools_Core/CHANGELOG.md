@@ -3,7 +3,7 @@
 
 ## [Unreleased Changes]
 <ul>
-	<li> </il>
+	<li>Small changes to FolderUtility.CreateFolders(string path).</il>
 </ul>
 <hr/>
 
