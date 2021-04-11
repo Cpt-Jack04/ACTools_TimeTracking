@@ -1,8 +1,7 @@
 # ACTools: Timetracking
-<hr/>
 
 ## Interfaces
-<hr/>
+
 ### ITrackTime
 <br>
 <ul>
@@ -52,7 +51,7 @@
 <hr/>
 
 ## C# Objects
-<hr/>
+
 ### public class Stopwatch : ITrackTime
 <br>
 <ul>
@@ -125,7 +124,7 @@
 		</li>
 	</ul>
 </ul>
-<hr/>
+
 ### public class Timer : ITrackTime
 <br>
 <ul>
@@ -218,7 +217,7 @@
 <hr/>
 
 ## Monobehaviours
-<hr/>
+
 ### public class StopwatchComponent : MonoBehaviour, ITrackTime
 <br>
 <ul>
@@ -272,7 +271,7 @@
 		</li>
 	</ul>
 </ul>
-<hr/>
+
 ### public class TimerComponent : ITrackTime
 <br>
 <ul>
