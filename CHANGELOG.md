@@ -7,6 +7,15 @@
 </ul>
 <hr/>
 
+## [1.0.3] - 2021-04-13
+
+### Changes:
+<ul>
+	<li>ACTools.Core updated.</il>
+	<li>Updated package.json updated.</il>
+</ul>
+<hr/>
+
 ## [1.0.2] - 2021-04-11
 
 ### Changes:
