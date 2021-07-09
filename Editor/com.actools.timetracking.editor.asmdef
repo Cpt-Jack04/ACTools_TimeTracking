@@ -1,10 +1,9 @@
 {
     "name": "com.actools.timetracking.editor",
     "references": [
-        "GUID:97d3a34ecf4c34e49992afd531182dea",
-        "GUID:0d0205e4cdb78374e9e86c88e5f120a7"
+        "com.actools.core.runtime",
+        "com.actools.timetracking.runtime"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -14,5 +13,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
